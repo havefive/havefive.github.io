@@ -73,7 +73,9 @@
 // weex
 // vue
 // next.js
-
+6.学习渠道
+站点：github,stackoverflow,掘金,阿里云,codepen,segmentdefault,dribble...
+论坛：云栖大会，d2,alloyteam,segmentdefault,开源中国论坛...
 ###面试题目类
 
 1. sessionStorage 和 localStorage

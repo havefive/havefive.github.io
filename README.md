@@ -68,14 +68,20 @@
 //Todo
 
 5.最近学习了什么
-// ant-design
-// mobile-ant-design
-// weex
-// vue
-// next.js
+* ant-design
+* mobile-ant-design
+* weex
+* vue
+* next.js
+
 6.学习渠道
-站点：github,stackoverflow,掘金,阿里云,codepen,segmentdefault,dribble...
-论坛：云栖大会，d2,alloyteam,segmentdefault,开源中国论坛...
+* 站点：github,stackoverflow,掘金,阿里云,codepen,segmentdefault,dribble...
+* 论坛：云栖大会，d2,alloyteam,segmentdefault,开源中国论坛...
+
+7.相关能力
+希望你能够快速响应和解决各类移动端疑难问题。
+并能够带动身边的人一起进步。
+
 ###面试题目类
 
 1. sessionStorage 和 localStorage
@@ -83,6 +89,5 @@
 3. 对前端（Front End Engineer）工作的理解
 4. CSS 的垂直居中 参考http://gold.xitu.io/post/582c04032f301e00594327d4
 5. 学习前端的 4 本书籍《编写可维护的Javascript》，《图解HTTP》，《Javascript设计模式与开发实践》，《Web前端开发最佳实践》
-
 
 

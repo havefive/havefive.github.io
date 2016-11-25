@@ -73,6 +73,7 @@
 * weex
 * vue
 * next.js
+* 小程序
 
 6.学习渠道
 * 站点：github,stackoverflow,掘金,阿里云,codepen,segmentdefault,dribble...

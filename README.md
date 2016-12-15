@@ -88,10 +88,15 @@
 * 论坛：云栖大会，d2,alloyteam,segmentdefault,开源中国论坛...
 
 7.相关能力
+```
 希望你能够快速响应和解决各类移动端疑难问题。
 并能够带动身边的人一起进步。
-
-8.项目演示
+```
+8.熟练或精通一种编程语言（如：Node.JS／Java／PHP） 
+```
+前后端分离的情况下，前端免不了和后端进行数据交互，如果会一种或多种倒是不错的，
+```
+9.项目演示
 
 1. https://reactjs.site (use react.js)
 2. https://wogong.site  (use vue.js)

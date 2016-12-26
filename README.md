@@ -6,7 +6,7 @@
 
 如果你也有类似的想法或者不一样的见解，可以提PR或issue啊。
 
-做了前端3年，一般都是看到别人分享的，自己总有些经验和体会，这里也分享一下，总结些别人没有的，比如前端工作职位、面试、技术实践等等。
+做了前端3年，经常看到别人分享的，自己总有些经验和体会，这里也分享一下，总结些别人没有的，比如前端工作职位、面试、技术实践等等。
 
 ## 备注#
 前端高能。。。
@@ -76,12 +76,13 @@
 
 5.最近学习了什么
 
+* react ,参考https://github.com/havefive/react-tmpl
 * ant-design
 * mobile-ant-design
 * weex
-* vue
+* vue，参考https://github.com/havefive/vue-teml
 * next.js
-* 小程序
+* 小程序,参考https://github.com/havefive/xiaochengxu
 
 6.学习渠道
 * 站点：github,stackoverflow,掘金,阿里云,codepen,segmentdefault,dribble...

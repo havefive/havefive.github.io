@@ -56,7 +56,7 @@
 
 1.有大型网站开发经验
 
-```4.
+```
 解答：怎样的网站是大型网站，可以基于访问量和页面复杂度等指标来阐述，也许访问量国内排名500名以内，才算吧。
 ```
 
@@ -72,7 +72,19 @@
 常见岗位要求：对流行的前端技术有深刻理解；
 ```
 4.能够写原生组件，对前端工程化与模块化开发有一定了解，并有实践经验
-//Todo
+
+举个例子：
+console.log('hello'.repeatify(3));要求打印hellohellohello
+```
+String.prototype.repeatify = String.prototype.repeatify || function(times){
+  var str = '';
+  for(var i = 0; i < times; i++){
+      str += this;
+  }
+  return str;
+};
+
+```
 
 5.最近学习了什么
 
@@ -85,8 +97,8 @@
 * 小程序,参考https://github.com/havefive/xiaochengxu
 
 6.学习渠道
-* 站点：github,stackoverflow,掘金,阿里云,codepen,segmentdefault,dribble...
-* 论坛：云栖大会，d2,alloyteam,segmentdefault,开源中国论坛...
+* 站点：github,stackoverflow,掘金,阿里云,codepen,segmentdefault,开源中国,dribble...
+* 论坛：云栖大会，d2,alloyteam,segmentdefault,开源中国...
 * 技术大牛的博客、微信文章等等
 
 7.相关能力

@@ -110,13 +110,12 @@ String.prototype.repeatify = String.prototype.repeatify || function(times){
 9.项目演示
 
 1. https://reactjs.site (use react.js)
-2. https://wogong.site  (use vue.js)
 
 ###面试题目类
 
 1. sessionStorage 和 localStorage
 2. css 动画 和 js 动画
-3. 对前端（Front End Engineer）工作的理解
+3. 对前端工程师（Front End Engineer）工作的理解
 4. CSS 的垂直居中 参考http://gold.xitu.io/post/582c04032f301e00594327d4
 5. 学习前端的几本书籍《编写可维护的Javascript》，《图解HTTP》，《Javascript设计模式与开发实践》，《Web前端开发最佳实践》，《技术之瞳》等等
 

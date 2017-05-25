@@ -1,4 +1,4 @@
-# -havefive.github.io
+# [Havefive](https://havefive.github.io)
 
 ## 前言
 
@@ -103,13 +103,11 @@ String.prototype.repeatify = String.prototype.repeatify || function(times){
 希望你能够快速响应和解决各类移动端疑难问题。
 并能够带动身边的人一起进步。
 ```
+
 8. 熟练或精通一种编程语言（如：Node.JS／Java／PHP） 
 ```
 前后端分离的情况下，前端免不了和后端进行数据交互，如果会一种或多种倒是不错的，
 ```
-9. 项目演示
-
-1. https://reactjs.site (use react.js)
 
 ### 面试题目类
 
